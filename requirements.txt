@@ -1,0 +1,2 @@
+pip install google-search-results
+# for serpapi to call google search
