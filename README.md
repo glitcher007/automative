@@ -1,4 +1,4 @@
-# PdfChatBot
+#Automative- PdfChatBot
 
 # Key Features:
 📖 Interactive Annotations: Highlight key passages, make notes, and ask questions directly within the PDF. The ChatBot understands your annotations and can provide relevant insights, explanations, or additional resources.
